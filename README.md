@@ -34,8 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [https://edmond-wu-9.github.io/product_view_card_fm/]
 ## My process
 
 I first created a container to hold my two sections, img and details, and applied flexbox to bring it in the middle of the page. Then applying CSS custom properties on the img 
