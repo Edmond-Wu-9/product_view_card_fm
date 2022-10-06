@@ -119,7 +119,7 @@ button:hover{
     }
 
     .img-container img{
-        content: url(/images/image-product-mobile.jpg);
+        content: url(./images/image-product-mobile.jpg);
         border-top-right-radius: 10px;
         border-bottom-left-radius: 0px;
     }
