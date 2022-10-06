@@ -30,7 +30,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/finished-product-sc.JPG)
-![](./images/image-product-mobile.jpg)
 
 
 ### Links
