@@ -9,12 +9,13 @@
 
 </head>
 <body>
+<main>
+  <article> <!--Container for card-->
 
-  <main> <!--Container for card-->
-
-    <section class="img-container">
-      <img src="./images/image-product-desktop.jpg" alt="Picture of Perfume">
-    </section>
+    <picture class="img-container">
+      <source media="(min-width:550px)" srcset="./images/image-product-desktop.jpg" alt="Picture of Perfume Desktop Version">
+      <img src="./images/image-product-mobile.jpg" alt="Picture of Perfume Mobile Version">
+    </picture>
 
     <section class="card-info">
       <p class = "category">PERFUME</p>
@@ -30,7 +31,7 @@
       </button>
     </section>
 
-  </main>
-
+  </article>
+</main>
 </body>
 </html>
